@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay0922&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay0922" /> </p>
 
-- 🔭 I’m currently working on **Front-end devlopment**
+- 🔭 I’m currently working on **Full Stack devlopment**
 
-- 🌱 I’m currently learning **Nodejs,React.js,Blockchain development**
-
-- 💬 Ask me about **Java,Html,Css,Javascript,jQuery**
+- 💬 Ask me about **Development and technology**
 
 - 📫 How to reach me **upadhyaytanmay23@gmail.com**
 
