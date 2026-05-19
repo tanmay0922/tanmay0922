@@ -25,6 +25,19 @@
 
 ---
 
+## About Me
+
+- 💻 Full Stack Engineer with experience in backend integration, microservices, and scalable web applications
+- 🔄 Working on modernizing large-scale legacy integration systems into microservices architecture
+- 🌐 Build across the full stack — REST APIs, enterprise backends, Angular/React frontends, and cloud deployments
+- 🎓 B.Tech in Electronics & Communication Engineering — **BIT Mesra** · 8.20 CGPA
+- 🏆 100+ Days of Coding on LeetCode · Gold Badge in Java · Bronze Badge in Problem Solving on HackerRank
+- ☁️ Hands-on with AWS, Docker, GitHub Actions, and CI/CD pipelines
+- 📍 Bangalore, India
+- 📫 upadhyaytanmay23@gmail.com
+
+---
+
 ## Tech Stack
 
 **Languages**
