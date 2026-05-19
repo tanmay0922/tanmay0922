@@ -1,30 +1,10 @@
 <h1 align="center">Hi, I'm Tanmay Upadhyay 👋</h1>
 
 <p align="center">
-  <b>Full Stack Software Engineer</b> · Java · Spring Boot · Angular · React<br/>
-  Currently modernizing <b>1,200+ enterprise services</b> for <b>Prudential Life Insurance (USA)</b> at BDIPLUS, Bangalore
+  Full Stack Engineer · Backend & Enterprise Integration · Java · Spring Boot · Angular · React
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanmay0922&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
-
----
-
-## About Me
-
-- 🏢 **Full Stack Engineer II** @ **BDIPLUS** — enterprise integration for **Prudential Life Insurance (USA)**
-- 🔄 Leading migration of **IBM IIB legacy flows → Java 17 + Spring Boot + Apache Camel** microservices (1,200+ services)
-- 🛠️ Previously shipped products at **Integrichain** (Angular · Flask · AWS) and **TalentServe** (MERN stack)
-- 🎓 B.Tech ECE — **BIT Mesra** · 8.20 CGPA
-- 💡 100+ days on LeetCode · Gold Badge in Java on HackerRank
-- 📍 Bangalore, India
-
----
-
-## Connect With Me
-
-<p align="left">
   <a href="https://www.linkedin.com/in/tanmay-upadhyay-0b884b203/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -37,6 +17,10 @@
   <a href="mailto:upadhyaytanmay23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanmay0922&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -64,6 +48,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
 **Databases**
 
@@ -93,11 +78,11 @@
 
 ---
 
-## Featured Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | [file-upload-microservice](https://github.com/tanmay0922/file-upload-microservice) | Secure file upload service with JWT auth, async processing via BullMQ, PostgreSQL metadata store | Node.js · PostgreSQL · BullMQ · JWT |
-| [secure-auth-system](https://github.com/tanmay0922/secure-auth-system) | Secure user authentication system with role-based access control | JavaScript |
-| [Human-activity-recognition](https://github.com/tanmay0922/Human-activity-recognition) | LSTM-based RNN achieving 91% accuracy classifying activities from sensor data | Python · TensorFlow |
+| [secure-auth-system](https://github.com/tanmay0922/secure-auth-system) | User authentication system with role-based access control | JavaScript |
+| [Human-activity-recognition](https://github.com/tanmay0922/Human-activity-recognition) | LSTM-based RNN achieving 91% accuracy classifying activities from smartphone sensor data | Python · TensorFlow |
 | [Leetcode-Java-Solutions](https://github.com/tanmay0922/Leetcode-Java-Solutions) | 100+ curated LeetCode solutions in Java, consistently updated | Java |
