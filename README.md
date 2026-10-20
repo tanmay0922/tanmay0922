@@ -87,6 +87,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [postgres-job-queue](https://github.com/tanmay0922/postgres-job-queue) | Durable job queue on PostgreSQL: `FOR UPDATE SKIP LOCKED` claiming, retries with backoff, dead-letter state, crash recovery via lease heartbeats | Java 21 · Spring Boot 4 · PostgreSQL |
 | [token-bucket-rate-limiter](https://github.com/tanmay0922/token-bucket-rate-limiter) | Thread-safe token bucket rate limiter: per-client buckets, HTTP 429 with rate-limit headers, idle eviction, CI + CodeQL | Java 17 · Spring Boot 3 |
 | [file-upload-microservice](https://github.com/tanmay0922/file-upload-microservice) | Secure uploads with JWT auth, type/size validation, PostgreSQL metadata and async workers via BullMQ | Node.js · PostgreSQL · Redis |
 | [secure-auth-system](https://github.com/tanmay0922/secure-auth-system) | bcrypt password hashing, JWT sessions with enforced expiry, role-based access control at middleware level | Node.js · JWT |
